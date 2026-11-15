@@ -1,5 +1,5 @@
 <h2>💻 My codes</h2>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
 <p>
   <img src="https://github.com/user-attachments/assets/4ff37462-9bc6-4e33-b304-d43dc44651ac" height="28"/>
   <span style="vertical-align: middle; font-size: 18px;"> • </span>
