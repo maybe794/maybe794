@@ -1,3 +1,9 @@
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/maybe794/maybe794/output/github-contribution-grid-snake.svg"
+    alt="Contribution Snake"
+  />
+</div>
 <h2>💻 My codes</h2>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
 <p>
